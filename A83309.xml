@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament to inable the associated counties with the county of Northampton to make such works as shall reduce the towne of Crowland to the obedience of King and Parliament. Die Iorvis, 7. Septemb. 1644. Ordered by the Lords and Commons Assembled in Parliament that this Ordinance be forthwith printed and published. Iohn Brovvne Cleric. Parl.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83309</idno><idno type="EEBO-CITATION">99859875</idno>
+  <idno type="VID">111976</idno>
+  <idno type="EEBO-PROQUEST">2240860370</idno>
+  
+            <idno type="STC">Wing E2093</idno>
+            <idno type="STC">Thomason E16_12</idno>
+            <idno type="STC">ESTC R15507</idno>
+            <idno type="PROQUEST">99859875</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859875e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111976)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E16[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament to inable the associated counties with the county of Northampton to make such works as shall reduce the towne of Crowland to the obedience of King and Parliament. Die Iorvis, 7. Septemb. 1644. Ordered by the Lords and Commons Assembled in Parliament that this Ordinance be forthwith printed and published. Iohn Brovvne Cleric. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Crowland (Lincolnshire) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111976:1"/>
+            <p> An Ordinance OF THE <hi>Lords</hi> and <hi>Commons</hi> Assembled in <hi>Parliament</hi> To inable the Associated <hi>Counties</hi> with the <hi>County</hi> of Northampton to make such works as shall reduce the Towne of <hi>Crowland</hi> to the obedience of <hi>King</hi> and <hi>Parliament.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Iovis,</hi> 7. Septemb. 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the <hi>Lords</hi> and <hi>Commons</hi> Assembled in <hi>Parliament</hi> that this <hi>Ordinance</hi> be forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>IOHN BROVVNE Cleric. PARL.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed for <hi>R. B.</hi>
+            </p>
+            <p>1644.</p>
+            <pb facs="tcp:111976:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111976:2"/>
+            <head>An Ordinance of the <hi>Lords</hi> &amp; <hi>Commons</hi> assembled in <hi>Parliament.</hi>
+            </head>
+            <head type="sub">To inable the Associated Counties, with the County of Northampton to make such works as shall reduce the Towne of <hi>Crowland</hi> to the obedience of <hi>King</hi> and <hi>Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the late surprisall of the <hi>Garrison of Crowland</hi> in the <hi>coun<g ref="char:EOLhyphen"/>tie</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Lincolne</hi> by the forces rai<g ref="char:EOLhyphen"/>sed in opposition to the <hi>King</hi> and <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> is very prejudit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all and of ill con<g ref="char:EOLhyphen"/>sequence to the severall counties associa<g ref="char:EOLhyphen"/>ted under the command of the Earle of <hi>Manchester,</hi> as also to great part of the of the Countie of Northampton next adjoyning to the same, and by reason of the unseasonablenesse of the weather the approaches to the said Garrison are
+<pb n="4" facs="tcp:111976:3"/> become so unaccessable, that though <hi>for<g ref="char:EOLhyphen"/>ces</hi> were drawne downe to reduce the same, it cannot now possibly be done without much charge and difficulty; and whereas the best meaner to prevent the Inroads, plunderings and other out<g ref="char:EOLhyphen"/>rages of the said <hi>Garrison,</hi> and also to hinder the same from provisions of corn and other supplies is advised to bee by by erecting and furnishing of three se<g ref="char:EOLhyphen"/>verall Forts, or Sconces, the tharge of which will amount to neere about Six hundred pounds. One neere a place called <hi>Brother</hi> House in the County of <hi>Linc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lne,</hi> Another upon <hi>Dowsdale banck</hi> in the said County, And a third upon <hi>Burrowe Bancke</hi> in the County of <hi>Northampton,</hi> Each of which is to bee Manned with fifty men or thereabouts and to haue attending to the same one
+<pb n="5" facs="tcp:111976:3"/>
+               <hi>Boate</hi> of defence to be Contrived and Builte by the Direction of the Com<g ref="char:EOLhyphen"/>mander in chiefe of the said several For<g ref="char:EOLhyphen"/>ces. Bee it therefore <hi>Ordained</hi> by the <hi>Lords</hi> and <hi>Commons</hi> assembled in <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and by the authoritie of the same, That the said three severall Forts or Sconces be Raised and Erected in the Place aforesaid, as by the aduice of the Commander in cheife of the said Forts shalbe thought most convenient, and advantagious for the ends and causes heretofore expressed, <hi>Two</hi> of the which said <hi>Forts</hi> or <hi>Sconces</hi> in the <hi>County</hi> of <hi>Lin<g ref="char:EOLhyphen"/>colne</hi> together with two such Boats as a<g ref="char:EOLhyphen"/>foresaid to be Erected, Framed, Manned and furnished with armes, ammunition, victuall and all other things necessary for the defence and maintainance of the same. And the said men to bee paid du<g ref="char:EOLhyphen"/>ring
+<pb n="6" facs="tcp:111976:4"/> the time they shall continue in the said service at the proper costs and char<g ref="char:EOLhyphen"/>ges of the said association, The other Forte in the County of <hi>Northampton</hi> together with one such Boate as afore<g ref="char:EOLhyphen"/>said, Erected, framed Manned and furnished with Armes, Ammunition, Victuall and all other Provisions, and things <hi>necessary</hi> for the defence &amp; main<g ref="char:EOLhyphen"/>tenance of the same; And the said men to be paid duering the time they shall Continue in the said Service, at the pro<g ref="char:EOLhyphen"/>per coste and charge of the said County of <hi>Northampton,</hi> by the direction and appointment of the Committee for the said county whoe hereby shall have full power and Authority to Taxe and Rate the said county for the Raising erecting and maintaining of the said Forts, boats and Forces, and whereas by Reason of
+<pb n="7" facs="tcp:111976:4"/> the divers and various <hi>creekes,</hi> and <hi>dranes</hi> in the severall <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enns</hi> wherewith the said <hi>Garrison</hi> of <hi>Crowland</hi> is invironed, the said <hi>Forts</hi> or <hi>sconces</hi> though happily they may stop and hinder the principall and ordinary passages and accesses to the said <hi>Garrison,</hi> yet they cannot possibly pre<g ref="char:EOLhyphen"/>vent the Issuing out of small Boates with parties to the Townes and Villages ad<g ref="char:EOLhyphen"/>jacent. And be it further ordained, that sixscore of Horse and Dragoones main<g ref="char:EOLhyphen"/>tained by the association shall be sent &amp; imployed in those parts for the securing of the said associated Counties, &amp; bloc<g ref="char:EOLhyphen"/>king up of the said <hi>Garrison</hi> of <hi>crowland;</hi> &amp; that threscore of the <hi>horse</hi> &amp; <hi>dragoons</hi> maintained by the <hi>county</hi> of <hi>Northamp<g ref="char:EOLhyphen"/>ton</hi> shall be sent and imployed in those parts for the securing of the said <hi>county</hi> and <hi>blocking</hi> upp of the said <hi>Garrison</hi> of Crowland.</p>
+            <pb facs="tcp:111976:5"/>
+            <p> And bee it further ordained that the <hi>Earl</hi> of <hi>Manchester</hi> do nominate and ap<g ref="char:EOLhyphen"/>point a commander in cheife, to com<g ref="char:EOLhyphen"/>mand the said <hi>Forces, Forts</hi> and <hi>Sconces.</hi>
+            </p>
+            <p>And be it lastly <hi>Ordained,</hi> that they shall have power to Raise the said <hi>Forts</hi> or <hi>Sconces</hi> in the places aforesaid, or in a<g ref="char:EOLhyphen"/>ny other place by and with the advice of the <hi>committee</hi> for the said <hi>association.</hi>
+            </p>
+            <closer>
+               <signed>I. Browne Cleric. Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
